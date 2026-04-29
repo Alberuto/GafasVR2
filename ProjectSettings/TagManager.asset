@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Verde
+  - Azul
+  - Rojo
+  - Mesa
   layers:
   - Default
   - TransparentFX
