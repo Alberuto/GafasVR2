@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cb883ab110913e4d8f8c49a306b9dfb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  startSeconds: 60
+  startSeconds: 30
   timeText: {fileID: 1054910126}
   lockManager: {fileID: 2023107548}
   victoryPanel: {fileID: 1309285157}
@@ -3788,7 +3788,7 @@ Transform:
   m_GameObject: {fileID: 1985422702}
   serializedVersion: 2
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: -0.5}
-  m_LocalPosition: {x: -0.09, y: -2.29, z: 3.64}
+  m_LocalPosition: {x: -0.09, y: -0.87, z: 3.76}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3838,9 +3838,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2f03fbffc36f8448b45163946430c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LockManager
-  unlockedBronze: 1
-  unlockedSilver: 1
-  unlockedGold: 1
+  unlockedBronze: 0
+  unlockedSilver: 0
+  unlockedGold: 0
 --- !u!1 &2038599865 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6689036041284674117, guid: 2da89feabbeb5934d8ba3d150529ab60, type: 3}
