@@ -9,6 +9,9 @@ TagManager:
   - Azul
   - Rojo
   - Mesa
+  - oro
+  - plata
+  - bronce
   layers:
   - Default
   - TransparentFX
